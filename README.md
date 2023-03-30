@@ -2,9 +2,9 @@ hey there--call me very;
 -----------------------
 I'm a travesti, which is a brazilian gender with its own history and ancestry, but I also go by trans metahumanoid techno-hazard;
 
-currently I am in a really cool and instigating moment in my life, which consists in a total U-turn career and study-wise, as I retired my 8-year career in film production and my motion graphics studies and went straight to code, in the weirdest way possible - at least for me;
+currently I am in a really cool and instigating moment in my life, which consists in a total U-turn career and study-wise, as I retired my 8-year-long career in film production and my motion graphics studies and went straight to code, in the weirdest way possible - at least for me;
 
-in june/2022 I applied to 42 school (in São Paulo) and went through their selecting process - which is a 4-week-nonstop basecamp in C, which happens in a 24/7 campus with no teachers, and without being able to use C standard libraries. The alumni can create their own schedule and engaje as much as they can/want. It was an ASTONISHING experience for me and I discover a whole new bundle of capacities, interests and desires, and also found a methodology that really works for me. So now I'm a full-time student in 42 São Paulo, and my progress within the curriculum - as well as the repositoire for each can be seen bellow;
+in june/2022 I applied to 42 school (in São Paulo) and went through their selecting process - which is a 4-week-nonstop basecamp in C, that happens in a 24/7 campus with no teachers, and without being able to use C standard libraries. the alumni can create their own schedule and engage as much as they can/want. it was an ASTONISHING experience for me and I discover a whole new bundle of capacities, interests and desires, and also found a methodology that really works for me. so now I'm a full-time student in 42 São Paulo, and my progress within the curriculum - as well as the repositoire for each can be seen bellow;
 
 my goal is to write a little bit about every project in their respective README.md file, and hopefully be able to communicate a little bit of my mental proccess developing each code. I'm starting a bit late, and will be creating the README for the projects I didn't do it previously, and am planning only commiting new projects with the README ready;
 
