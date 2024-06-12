@@ -1,6 +1,6 @@
 hey there--call me very;
 -----------------------
-I'm a travesti, which is a brazilian gender with its own history and ancestry, but I also go by trans metahumanoid techno-hazard;
+I'm a brazilian former-cinematographer, currently studying and working in programming;
 
 currently I am in a really cool and instigating moment in my life, which consists in a total U-turn career and study-wise, as I retired my 8-year-long career in film production and my motion graphics studies and went straight to code, in the weirdest way possible - at least for me;
 
