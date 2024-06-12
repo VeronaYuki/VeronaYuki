@@ -1,4 +1,4 @@
-hey there--call me very;
+hey there--call me verona;
 -----------------------
 I'm a brazilian former-cinematographer, currently studying and working in programming;
 
