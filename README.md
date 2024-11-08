@@ -3,8 +3,8 @@
   ### hey there--call me verona; 
 
   <p>   
-   <img src="https://github.com/metavenoma/metavenoma/blob/main/assets/computer.png" min-width="120px" max-width="120px" width="120px" align="left">  
-   <img src="https://github.com/metavenoma/metavenoma/blob/main/assets/computer.png" min-width="120px" max-width="120px" width="120px" align="right"> 
+   <img src="https://github.com/metavenoma/metavenoma/blob/main/assets/computer.png"  width="100px" align="left">  
+   <img src="https://github.com/metavenoma/metavenoma/blob/main/assets/computer.png"  width="100px" align="right"> 
     hello, my name is verona, a brazilian trans programmer! <br>
     i love code, generative art, visual arts and game design.<br>
     i'm also a performer, and plan on implementing <br>
