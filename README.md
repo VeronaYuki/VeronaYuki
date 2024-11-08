@@ -1,9 +1,13 @@
-hey there--call me verona;
------------------------
-I'm a brazilian former-cinematographer, currently studying and working in programming;
+<div align="center">
+hey there--call me verona;<br>
+<hr>
+I'm a brazilian former-cinematographer,<br> 
+currently studying and working in programming;<br>
 
-. I work as a Software Engineer at [capimbr](https://github.com/capimbr)
-. I study and make a lot of fun projects at [42](https://github.com/42School) and have all the projects I developed there in [this repo](https://github.com/metavenoma/42).
+. I work as a Software Engineer at [capimbr](https://github.com/capimbr)<br>
+. I study and make a lot of fun projects at [42](https://github.com/42School) <br>
+and have all the projects I developed there in [this repo](https://github.com/metavenoma/42).
+</div>
 
 <!--
 **metavenoma/metavenoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
