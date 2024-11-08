@@ -2,11 +2,6 @@
 
   ### hey there--call me verona; 
 
-</div>
-<div align="center">
-
-  ### about me
-
   <p>
     hello, my name is verona, a brazilian former-cinematographer, currently studying and working in programming;
     i have a lot of interest in code, generative art, visual arts and game design.
