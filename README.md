@@ -2,7 +2,9 @@
 
   ### hey there--call me verona; 
 
-  <p>
+  <p>   
+   <img src="https://github.com/metavenoma/metavenoma/blob/main/assets/computer.png" min-width="120px" max-width="120px" width="120px" align="left">  
+   <img src="https://github.com/metavenoma/metavenoma/blob/main/assets/computer.png" min-width="120px" max-width="120px" width="120px" align="right"> 
     hello, my name is verona, a brazilian trans programmer! <br>
     i have a lot of interest in code, generative art, visual arts and game design.<br>
     i'm also a performer, and plan on implementing programming to enhance my performances.
