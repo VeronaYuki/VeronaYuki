@@ -1,6 +1,6 @@
 <div align="center">
-hey there--call me verona;<br>
-<hr>
+##hey there--call me verona;<br>
+
 I'm a brazilian former-cinematographer,<br> 
 currently studying and working in programming;<br>
 
