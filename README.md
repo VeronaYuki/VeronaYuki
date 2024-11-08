@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  ### what i'm Working On
+  ### what i'm working on
 
   <p>
     i'm a software engineer at <a href="https://github.com/capimbr" target="_blank">Capim</a><br>
