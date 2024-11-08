@@ -54,7 +54,6 @@
   ## how to reach me
 
   <p>
-    - [Email](mailto:veronauan@gmail.com)
     - [LinkedIn](https://linkedin.com/in/veronayuki)
   </p>
 
