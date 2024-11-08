@@ -3,8 +3,8 @@
   ### hey there--call me verona; 
 
   <p>
-    hello, my name is verona, a brazilian former-cinematographer, currently studying and working in programming;
-    i have a lot of interest in code, generative art, visual arts and game design.
+    hello, my name is verona, a brazilian trans programmer! <br>
+    i have a lot of interest in code, generative art, visual arts and game design.<br>
     i'm also a performer, and plan on implementing programming to enhance my performances.
   </p>
 
