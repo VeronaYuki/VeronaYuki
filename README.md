@@ -1,25 +1,14 @@
 <div align="center">
-hey there--call me verona;<br>
+### hey there--call me verona;<br>
 
-I'm a brazilian former-cinematographer,<br> 
-currently studying and working in programming;<br>
+hello, my name is verona, a brazilian former-cinematographer, currently studying and working in programming;
+i have a lot of interest in code, generative art, visual arts and game design.
+i'm also a performer, and plan on implementing programming to enhance my performances.
 
-. I work as a Software Engineer at [capimbr](https://github.com/capimbr)<br>
-. I study and make a lot of fun projects at [42](https://github.com/42School) <br>
+### what i'm working on
+
+. i work as a Software Engineer at [capimbr](https://github.com/capimbr)<br>
+. i study and make a lot of fun projects at [42](https://github.com/42School) <br>
 and have all the projects I developed there in [this repo](https://github.com/metavenoma/42).
 </div>
 
-<!--
-**metavenoma/metavenoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
