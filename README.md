@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-  ### about Me
+  ### about me
 
   <p>
     hello, my name is verona, a brazilian former-cinematographer, currently studying and working in programming;
@@ -49,7 +49,6 @@
 
   <p>
     <a href="mailto:veronauan@gmail.com">Email</a>
-    <a href="https://linkedin.com/in/veronayuki" target="_blank">LinkedIn</a>
   </p>
 
 </div>
