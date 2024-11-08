@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 <div align="center">
 
   ## about Me
@@ -19,20 +17,16 @@
 
 </div>
 
----
-
 <div align="center">
 
   ## what i'm Working On
 
   <p>
-    i work as a Software Engineer at [capimbr](https://github.com/capimbr)<br>
-    i study and make a lot of fun projects at [42](https://github.com/metavenoma/42).
+    <a href="https://github.com/capimbr" target="_blank">Capim</a>
+    <a href="https://github.com/metavenoma/42" target="_blank">42</a>
   </p>
 
 </div>
-
----
 
 <div align="center">
 
@@ -47,14 +41,14 @@
 
 </div>
 
----
 
 <div align="center">
 
   ## how to reach me
 
   <p>
-    - [LinkedIn](https://linkedin.com/in/veronayuki)
+    <a href="mailto:veronauan@gmail.com">Email</a>
+    <a href="https://linkedin.com/in/veronayuki" target="_blank">LinkedIn</a>
   </p>
 
 </div>
