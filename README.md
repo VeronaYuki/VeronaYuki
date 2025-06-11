@@ -17,7 +17,6 @@
 
   <p>
     i'm a software engineer at <a href="https://github.com/capimbr" target="_blank">Capim</a><br>
-    i study and make a bunch of cool projects at <a href="https://github.com/metavenoma/42" target="_blank">42</a><br>
   </p>
 
 </div>
