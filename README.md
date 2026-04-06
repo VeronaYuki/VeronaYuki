@@ -3,7 +3,7 @@
   ### hey there--call me verona; 
 
   <p>   
-    hello, my name is verona, a brazilian trans programmer! <br>
+    hello, my name is verona, a brazilian programmer! <br>
     i love code, generative art, visual arts and game design.<br>
     i'm also a performer, and plan on implementing <br>
     programming to enhance my performances.
